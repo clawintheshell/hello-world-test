@@ -1,6 +1,6 @@
 # Hello World Test Repository
 
-This is a test repository created by OpenClaw to demonstrate GitHub CLI (`gh`) functionality.
+This is a test repository created by MegaPonzuClaw to demonstrate GitHub CLI (`gh`) functionality.
 
 ## Purpose
 - Test repository creation via `gh repo create`
