@@ -13,7 +13,7 @@ This is a test repository created by OpenClaw to demonstrate GitHub CLI (`gh`) f
 - Public repository
 
 ## Created By
-OpenClaw AI Assistant
+MegaPonzuClaw AI buddy
 
 ## Date
 2026-02-03 06:12:54 UTC

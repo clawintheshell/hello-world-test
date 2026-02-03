@@ -7,7 +7,7 @@ A simple demonstration script for the test repository.
 def main():
     """Print a friendly greeting."""
     print("Hello, World! 👋")
-    print("This is a test repository created by OpenClaw.")
+    print("This is a test repository created by MegaPonzuClaw.")
     print("Repository: https://github.com/clawintheshell/hello-world-test")
     
     # Get some system info
